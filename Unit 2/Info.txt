@@ -1,0 +1,20 @@
+UNIT - 2
+Data Visualization
+• Creating histograms to visualize the distribution of numerical data.
+• Plotting scatter plots to explore relationships between two
+continuous variables.
+• Generating bar charts to compare frequencies of different categories
+in a dataset.
+• Constructing box plots to identify outliers and assess data
+variability.
+• Using heatmaps to visualize correlation matrices between features.
+Hands-on Exercise
+• Analyze a real-world dataset (e.g., Iris dataset, Titanic dataset)
+using Python libraries like Pandas and Matplotlib.
+• Perform data cleaning operations (e.g., handling missing values,
+removing outliers) on the dataset.
+• Visualize key statistics and distributions of features using
+appropriate plots.
+• Implement data preprocessing techniques such as feature scaling
+and encoding.
+• Implement feature extraction methods to extract the features.
