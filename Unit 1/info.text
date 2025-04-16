@@ -1,0 +1,24 @@
+Unit 1
+Introduction to Machine learning
+• Python modules for Machine Learning,
+• Python Modules: Numeric Python (NumPy), Data analysis with Pandas
+
+Data Collection
+• Collecting weather data from various weather stations for climate prediction.
+• Gathering customer feedback through online surveys
+• Scraping news articles from websites
+• Obtaining financial data from stock exchanges for predicting market trends.
+
+Data Cleaning
+• Removing duplicate entries from a customer database.
+• Handling missing values in a dataset by imputation or deletion.
+• Correcting inconsistencies in data entry (e.g., standardizing date formats).
+• Filtering out irrelevant or erroneous data points based on predefined criteria.
+• Cleaning textual data by removing HTML tags, punctuation, and special characters.
+
+Data Transformation
+• Converting categorical variables into numerical representations using one-hot encoding or label encoding.
+• Scaling numerical features to a standard range using Min-Max scaling or Z-score normalization.
+• Transforming skewed distributions using log or square root transformations.
+• Applying text preprocessing techniques such as tokenization, stemming, and lemmatization to textual data.
+• Encoding temporal data into meaningful features such as day of the week or time of day.
