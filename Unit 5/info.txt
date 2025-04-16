@@ -1,0 +1,6 @@
+Unit 5
+Implementation of Speech Recognition (Case Study):
+• Building a speech-to-text transcription system for converting spoken audio recordings (e.g., lectures, meetings) into text transcripts.
+Implementation of Pattern Recognition (Case Study):
+• Face Recognition
+• Spam Email Detection
